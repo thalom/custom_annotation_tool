@@ -9,7 +9,6 @@ import os
 import sys
 import shutil
 from collections import OrderedDict
-
 from glob import glob
 
 print(os.path.abspath(os.path.curdir))
@@ -23,6 +22,7 @@ JPG_PATH = "../machinel_a/*.jpg"
 JPEG_PATH = "../machinel_a/*.jpeg"
 PNG_PATH = "../machinel_a/*.png"
 BLUR_DIR_NAME = "blurry"
+
 with open(CLASSES_FILE) as classes_file:
     classes_list = classes_file.read().split()
 print(classes_list)
