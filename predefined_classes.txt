@@ -1,12 +1,16 @@
+deadlift_bad
 deadlift_up
 deadlift_down
 deadlift_unsure
+squat_bad
 squat_up
 squat_down
 squat_unsure
+benchpress_bad
 benchpress_up
 benchpress_down
 benchpress_unsure
+militarypress_bad
 militarypress_up
 militarypress_down
 militarypress_unsure
