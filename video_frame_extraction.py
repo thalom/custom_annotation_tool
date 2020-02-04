@@ -3,8 +3,8 @@ from glob import glob
 import cv2
 import sys
 
-import time
 import matplotlib.pyplot as plt
+# import time
 
 VIDS = glob("/home/thalo/Videos/*")
 print(VIDS)
